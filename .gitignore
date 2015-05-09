@@ -1,0 +1,7 @@
+# CSS
+*.css
+*.map
+/dist
+
+# OS Files
+.DS_Store
